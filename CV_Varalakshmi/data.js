@@ -54,6 +54,11 @@ var skills_data = '{'+
     '{'+
     '    "lang":"C++", '+
     '    "known_persentge":"40%" '+
+    '},'+
+
+    '{'+
+    '    "lang":"React Native", '+
+    '    "known_persentge":"60%" '+
     '}'+
     '],'+
 
@@ -144,6 +149,10 @@ var skills_data = '{'+
 
     '{'+
     '    "lang":"QT Designer" '+
+    '},'+
+
+    '{'+
+    '    "lang":"Android Studio" '+
     '},'+
 
     '{'+
@@ -273,6 +282,16 @@ var projects_data = '{'+
         '                   "Interface Requirement Specification and Software Requirement Specification for Radar data processing." '+
         '            ]'+
         '},'+
+
+        '{'+
+        '    "tittle":"Drone Detection Radar", '+
+        '    "brif":  ['+
+        '                   "Functional requirement specification for Radar Control and Display System with use cases.", '+
+        '                   "Developed Radar Control and Display System to display targets receiving from RADAR, configuration for RADAR and also interface camera with GUI in C#.net using WPF as frontend.", '+
+        '                   "Interface Requirement Specification and Software Requirement Specification for Radar control and Display system."'+
+        '            ]'+
+        '},'+
+
 
         '{'+
         '    "tittle":"Switch matrix system for testing of Radio Link (RL542A)", '+
